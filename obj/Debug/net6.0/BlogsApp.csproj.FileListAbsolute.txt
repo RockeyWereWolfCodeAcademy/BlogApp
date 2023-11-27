@@ -1,0 +1,44 @@
+C:\Users\Birinci Novbe\Desktop\BlogsApp\obj\Debug\net6.0\BlogsApp.csproj.AssemblyReference.cache
+C:\Users\Birinci Novbe\Desktop\BlogsApp\obj\Debug\net6.0\BlogsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Birinci Novbe\Desktop\BlogsApp\obj\Debug\net6.0\BlogsApp.AssemblyInfoInputs.cache
+C:\Users\Birinci Novbe\Desktop\BlogsApp\obj\Debug\net6.0\BlogsApp.AssemblyInfo.cs
+C:\Users\Birinci Novbe\Desktop\BlogsApp\obj\Debug\net6.0\BlogsApp.csproj.CoreCompileInputs.cache
+C:\Users\Birinci Novbe\Desktop\BlogsApp\bin\Debug\net6.0\BlogsApp.exe
+C:\Users\Birinci Novbe\Desktop\BlogsApp\bin\Debug\net6.0\BlogsApp.deps.json
+C:\Users\Birinci Novbe\Desktop\BlogsApp\bin\Debug\net6.0\BlogsApp.runtimeconfig.json
+C:\Users\Birinci Novbe\Desktop\BlogsApp\bin\Debug\net6.0\BlogsApp.dll
+C:\Users\Birinci Novbe\Desktop\BlogsApp\bin\Debug\net6.0\BlogsApp.pdb
+C:\Users\Birinci Novbe\Desktop\BlogsApp\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Birinci Novbe\Desktop\BlogsApp\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Birinci Novbe\Desktop\BlogsApp\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Birinci Novbe\Desktop\BlogsApp\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Birinci Novbe\Desktop\BlogsApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Birinci Novbe\Desktop\BlogsApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Birinci Novbe\Desktop\BlogsApp\obj\Debug\net6.0\BlogsApp.csproj.CopyComplete
+C:\Users\Birinci Novbe\Desktop\BlogsApp\obj\Debug\net6.0\BlogsApp.dll
+C:\Users\Birinci Novbe\Desktop\BlogsApp\obj\Debug\net6.0\refint\BlogsApp.dll
+C:\Users\Birinci Novbe\Desktop\BlogsApp\obj\Debug\net6.0\BlogsApp.pdb
+C:\Users\Birinci Novbe\Desktop\BlogsApp\obj\Debug\net6.0\BlogsApp.genruntimeconfig.cache
+C:\Users\Birinci Novbe\Desktop\BlogsApp\obj\Debug\net6.0\ref\BlogsApp.dll
+C:\Users\User\Downloads\BlogsApp\bin\Debug\net6.0\BlogsApp.exe
+C:\Users\User\Downloads\BlogsApp\bin\Debug\net6.0\BlogsApp.deps.json
+C:\Users\User\Downloads\BlogsApp\bin\Debug\net6.0\BlogsApp.runtimeconfig.json
+C:\Users\User\Downloads\BlogsApp\bin\Debug\net6.0\BlogsApp.dll
+C:\Users\User\Downloads\BlogsApp\bin\Debug\net6.0\BlogsApp.pdb
+C:\Users\User\Downloads\BlogsApp\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\User\Downloads\BlogsApp\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Downloads\BlogsApp\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\User\Downloads\BlogsApp\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\User\Downloads\BlogsApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Downloads\BlogsApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Downloads\BlogsApp\obj\Debug\net6.0\BlogsApp.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\BlogsApp\obj\Debug\net6.0\BlogsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\BlogsApp\obj\Debug\net6.0\BlogsApp.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\BlogsApp\obj\Debug\net6.0\BlogsApp.AssemblyInfo.cs
+C:\Users\User\Downloads\BlogsApp\obj\Debug\net6.0\BlogsApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\BlogsApp\obj\Debug\net6.0\BlogsApp.csproj.CopyComplete
+C:\Users\User\Downloads\BlogsApp\obj\Debug\net6.0\BlogsApp.dll
+C:\Users\User\Downloads\BlogsApp\obj\Debug\net6.0\refint\BlogsApp.dll
+C:\Users\User\Downloads\BlogsApp\obj\Debug\net6.0\BlogsApp.pdb
+C:\Users\User\Downloads\BlogsApp\obj\Debug\net6.0\BlogsApp.genruntimeconfig.cache
+C:\Users\User\Downloads\BlogsApp\obj\Debug\net6.0\ref\BlogsApp.dll
